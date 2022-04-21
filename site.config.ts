@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'e5e2bc249b4b47daab2a9953044cb157',
+  rootNotionPageId: 'BLOG-OF-Liau-38288bb5ce4348b6a436aadee6ec32c8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BLOG OF LIAU',
-  domain: 'https://stormy-streetcar-63c.notion.site/05a48aad36d146c7b54fe944da6f8f5a?v=e5e2bc249b4b47daab2a9953044cb157',
+  domain: 'https://stormy-streetcar-63c.notion.site/BLOG-OF-Liau-38288bb5ce4348b6a436aadee6ec32c8',
   author: 'LIAU',
 
   // open graph metadata (optional)
