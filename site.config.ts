@@ -18,7 +18,6 @@ export default siteConfig({
 
   // social usernames (optional)
   github: 'https://github.com/Liaukx',
-  leetcode:'https://leetcode-cn.com/u/liaukx/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
