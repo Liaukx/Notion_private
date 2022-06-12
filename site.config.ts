@@ -9,15 +9,15 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BLOG OF LIAU',
-  domain: 'https://stormy-streetcar-63c.notion.site/BLOG-OF-Liau-38288bb5ce4348b6a436aadee6ec32c8',
+  name: 'Writing Space @ Liaukx',
+  domain: 'Writing_Space',
   author: 'LIAU',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '为赴日月，山海如夷',
 
   // social usernames (optional)
-  github: 'https://github.com/Liaukx',
+  github: 'Liaukx',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
