@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Writing Space @ Liaukx',
-  domain: 'Writing_Space',
+  domain: 'liauKX',
   author: 'LIAU',
 
   // open graph metadata (optional)
